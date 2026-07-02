@@ -16,7 +16,9 @@
 🔭 **Current Focus:** Building scalable Full-Stack applications while strengthening problem-solving through DSA.
 
 🌱 **Currently Learning:** DSA in Java, Web development
+
 💻 **Currently Building:** AI SaaS Platform
+
 👯 **Open to Collaborate On:** AI, Full-Stack Web Applications, and Open Source Projects.
 
 💼 **Areas of Interest:** Software Engineering, Full-Stack Development, Artificial Intelligence, and System Design.
