@@ -22,6 +22,7 @@
 👯 **Open to Collaborate On:** AI, Full-Stack Web Applications, and Open Source Projects.
 
 💼 **Areas of Interest:** Software Engineering, Full-Stack Development, Artificial Intelligence, and System Design.
+
 🎯 **Goal:** Build impactful software, contribute to Open Source, and grow as a Software Engineer.
 
 📫 **Email:** **khiba9543@gmail.com**
