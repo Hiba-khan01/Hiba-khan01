@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: AI SaaS Platform<br><br>🌱 My focus is on: DSA in Java <br><br>👯 I'm looking to collaborate on: AI, Full-Stack Web Applications, and Open Source Projects<br><br>I am learning: Web Development<br><br>📫 Reach me at: khiba9543@gmail.com<br><br>⚡ Fun fact: I enjoy turning ideas into real-world software that people can actually use.
+🔭 Focus: DSA + Java<br><br>🌱 I'm currently learning: Web Development<br><br>👯 I'm looking to collaborate on: AI, Full-Stack Web Applications, and Open Source Projects<br><br>💬Building : AI SaaS Platform<br><br>📫 Reach me at: khiba9543@gmail.com<br><br>⚡ Fun fact: I enjoy turning ideas into real-world software that people can actually use.
 
 
 ## 🌐 Socials:
@@ -12,9 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=Hiba-khan01&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hiba-khan01&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Hiba-khan01&icon=9&color=9)](https://visitcount.itsvg.in)
-
