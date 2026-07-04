@@ -17,7 +17,7 @@
 
 🌱 **Currently Learning:** DSA in Java, Web development
 
-💻 **Currently Building:** AI SaaS Platform
+💻 **Currently Building:** Imaginify: AI-powered image generator
 
 👯 **Open to Collaborate On:** AI, Full-Stack Web Applications, and Open Source Projects.
 
@@ -75,7 +75,7 @@
 
 ## 🚀 Featured Projects
 
-- 🤟 **AI SaaS Platform** *(In Progress)*
+- 🤟 **Imaginify: AI-powered image generator** *(In Progress)*
 - 📄 **Resumio – AI Resume Analyzer**
 - 🛡️ **ThreatLens AI – Malware Detection using Machine Learning**
 - 📝 **NoteSpace – Full Stack Notes Application**
