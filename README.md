@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiba Khan</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applications
+Aspiring Software Engineer • Full-Stack Developer • Building Modern Web & AI Applications
 </h3>
 
 <p align="center">
@@ -12,27 +12,27 @@ Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applicat
 
 # 👩‍💻 About Me
 
-🎓 **B.Tech CSE (Artificial Intelligence)**  
+🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence)**  
 
 📍 GL Bajaj Institute of Technology & Management
 
-💼 Passionate about building scalable software and AI-powered applications that solve real-world problems.
+💼 Passionate about building scalable software, exploring modern web technologies, and creating AI-powered applications that solve real-world problems.
 
-🔭 **Current Focus:** Strengthening Data Structures & Algorithms while building modern Full-Stack applications.
+🔭 **Current Focus:** Strengthening Data Structures & Algorithms while building production-inspired Full-Stack projects.
 
-🌱 **Currently Learning:** Advanced React, Next.js, and DSA in Java.
+🌱 **Currently Learning:** TypeScript, System Design, and Data Structures & Algorithms in Java.
 
-💻 **Currently Building:** **HTTPForge** – A high-performance HTTP server built from scratch.
+💻 **Currently Building:** **HTTPForge** – A production-inspired HTTP server built from scratch using JavaScript and TypeScript.
 
 🤝 **Open to Collaborate On:** AI, Full-Stack Web Applications, and Open Source Projects.
 
-💡 **Interested In:** Software Engineering, Full-Stack Development, Artificial Intelligence, and System Design.
+💡 **Areas of Interest:** Software Engineering, Backend Development, Full-Stack Development, Artificial Intelligence, and System Design.
 
-🎯 **Goal:** Become a Software Engineer by building impactful projects and continuously improving my problem-solving skills.
+🎯 **Goal:** Become a Software Engineer by building impactful software and continuously improving my problem-solving skills.
 
 📫 **Reach Me:** **khiba9543@gmail.com**
 
-⚡ **Fun Fact:** I enjoy turning ideas into real-world software that people can actually use.
+⚡ **Fun Fact:** I enjoy turning ideas into software that people can actually use.
 
 ---
 
@@ -40,7 +40,7 @@ Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applicat
 
 <p align="left">
 
-<a href="www.linkedin.com/in/hiba-khan-7ab194380">
+<a href="https://www.linkedin.com/in/hiba-khan-7ab194380" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -57,7 +57,7 @@ Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applicat
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 </p>
 
 ### Frontend
@@ -81,10 +81,10 @@ Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applicat
 ### AI / ML
 
 - TensorFlow
+- Scikit-Learn
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-Learn
 
 ### Tools
 
@@ -97,50 +97,44 @@ Aspiring Software Engineer | Full-Stack Developer | Building AI-powered Applicat
 # 🚀 Featured Projects
 
 ### 🌐 HTTPForge *(In Progress)*
-A production-inspired HTTP server built from scratch using JavaScript and TypeScript, implementing core HTTP features such as request parsing, routing, static file serving, MIME type detection, chunked transfer encoding, compression, caching, and WebSocket support.
+A production-inspired HTTP server built from scratch using JavaScript and TypeScript, implementing request parsing, routing, middleware, static file serving, MIME type detection, chunked transfer encoding, compression, caching, and WebSocket support.
 
 ### 📄 Resumio
-AI-powered Resume Analyzer that provides ATS scoring and resume feedback.
+An AI-powered Resume Analyzer that provides ATS scoring, resume feedback, and actionable improvement suggestions.
 
 ### 🛡️ ThreatLens AI
-Malware Detection using Machine Learning with Explainable AI (SHAP).
+A Machine Learning-based malware detection system using Explainable AI (SHAP) for transparent predictions.
 
 ### 📝 NoteSpace
-A Full-Stack Notes Application with authentication and CRUD operations.
+A Full-Stack Notes Application featuring authentication, CRUD operations, and a responsive user interface.
 
 ---
 
 # 🏆 Certifications
 
-🏅 Mastercard Software Engineering Job Simulation
-
-🏅 TCS iON AI For All
-
-🏅 Palo Alto Networks Cybersecurity Certifications
+- 🏅 JPMorgan Chase & Co. Software Engineering Job Simulation (Forage)
+- 🏅 Mastercard Software Engineering Job Simulation (Forage)
+- 🏅 TCS iON AI For All
+- 🏅 Palo Alto Networks Cybersecurity Certifications
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiba-khan01&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-khan01&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiba-khan01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-khan01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiba-khan01&theme=github-dark&hide_border=false"/>
-
+<img src="https://streak-stats.demolab.com?user=Hiba-khan01&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Hiba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiba-khan01&theme=github-dark)](https://github.com/Hiba-khan01)
+[![Hiba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiba-khan01&theme=tokyo-night&hide_border=true)](https://github.com/Hiba-khan01)
 
 ---
 
