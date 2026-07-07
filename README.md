@@ -114,7 +114,7 @@ A Full-Stack Notes Application featuring authentication, CRUD operations, and a 
 
 - 🏅 JPMorgan Chase & Co. Software Engineering Job Simulation (Forage)
 - 🏅 Mastercard Software Engineering Job Simulation (Forage)
-- 🏅 TCS iON AI For All
+- 🏅 TCS iON AI For All Certification
 - 🏅 Palo Alto Networks Cybersecurity Certifications
 
 ---
