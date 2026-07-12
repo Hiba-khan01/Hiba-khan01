@@ -22,8 +22,6 @@ Aspiring Software Engineer • Full-Stack Developer • Building Modern Web & AI
 
 🌱 **Currently Learning:** TypeScript, System Design, and Data Structures & Algorithms in Java.
 
-💻 **Currently Building:** **HTTPForge** – A production-inspired HTTP server built from scratch using JavaScript and TypeScript.
-
 🤝 **Open to Collaborate On:** AI, Full-Stack Web Applications, and Open Source Projects.
 
 💡 **Areas of Interest:** Software Engineering, Backend Development, Full-Stack Development, Artificial Intelligence, and System Design.
@@ -96,7 +94,7 @@ Aspiring Software Engineer • Full-Stack Developer • Building Modern Web & AI
 
 # 🚀 Featured Projects
 
-### 🌐 HTTPForge *(In Progress)*
+### 🌐 HTTPForge 
 A production-inspired HTTP server built from scratch using JavaScript and TypeScript, implementing request parsing, routing, middleware, static file serving, MIME type detection, chunked transfer encoding, compression, caching, and WebSocket support.
 
 ### 📄 Resumio
